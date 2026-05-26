@@ -1,0 +1,1 @@
+Foco deste repositório é documentar meu avanço nos fundamentos da computação.
